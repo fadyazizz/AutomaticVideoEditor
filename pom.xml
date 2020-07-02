@@ -14,7 +14,7 @@
     <fasterxml.jackson.core.version>2.5.3</fasterxml.jackson.core.version>
     <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
     <hibernate.version>4.3.5.Final</hibernate.version>
-    <mysql.version>5.1.10</mysql.version>
+    <mysql.version>8.0.16</mysql.version>
    <!--  -<xuggler.version>0.16</xuggler.version>-->
 
 </properties>
