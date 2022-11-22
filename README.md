@@ -5,7 +5,24 @@ back and watch it merge your videos!!!
 
 It uses Xuggler, which is an FFMPEG Java wrapper.
 
+# Setup
+
+<ul>
+<li>Open the project with any IDE I use eclipse here</li>
+<li>Right click on the project and select build path and configure build path and select the libraries tab</li>
+<li>Select xuggle-xuggler-5.4.jar and then select remove</li>
+
+![remove](https://user-images.githubusercontent.com/47413908/203427865-bff65a8e-31ec-45b6-9217-458da7822895.PNG)
+
+
+<li>Select class path and then click add JARS and select xuggler's JAR file </li>
+
+![addingjar](https://user-images.githubusercontent.com/47413908/203427454-2f3227cc-79c3-40d3-b1ec-1408c7507a4d.PNG)
+
+</ul>
+
 # GUI
+
 ![gui2](https://user-images.githubusercontent.com/47413908/203424020-a9dda708-ea50-456d-890f-306ad8a47f32.PNG)
 
 
