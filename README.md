@@ -8,7 +8,7 @@ It uses Xuggler, which is an FFMPEG Java wrapper.
 # Setup
 
 <ul>
-<li>Open the project with any IDE I use eclipse here</li>
+<li>Open the project with any IDE (I use eclipse here)</li>
 <li>Right click on the project and select build path and configure build path and select the libraries tab</li>
 <li>Select xuggle-xuggler-5.4.jar and then select remove</li>
 
