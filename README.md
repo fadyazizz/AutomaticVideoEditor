@@ -3,7 +3,7 @@
 This Project allows you to sepcify a main video, and other subvideos with their display timestamps, so you can sit
 back and watch it merge your videos!!!
 
-It usese Xuggler, which is an FFMPEG Java wrapper.
+It uses Xuggler, which is an FFMPEG Java wrapper.
 
 # GUI
 ![gui](https://user-images.githubusercontent.com/47413908/203416251-004f8109-32bd-43cf-83de-f32d2e221aae.PNG)\
