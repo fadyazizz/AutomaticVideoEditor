@@ -44,3 +44,9 @@ The timestamps I used are at: 3 and 12, which will basically insert the first vi
 
 
 
+https://user-images.githubusercontent.com/47413908/203423332-fd825361-2d64-4e8a-b068-1610af037500.mp4
+
+we can see the videos are placed in the timestamps provided (3 and 12).
+
+
+
