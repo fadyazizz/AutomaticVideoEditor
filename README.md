@@ -6,7 +6,8 @@ back and watch it merge your videos!!!
 It uses Xuggler, which is an FFMPEG Java wrapper.
 
 # GUI
-![gui](https://user-images.githubusercontent.com/47413908/203416251-004f8109-32bd-43cf-83de-f32d2e221aae.PNG)\
+![gui2](https://user-images.githubusercontent.com/47413908/203424020-a9dda708-ea50-456d-890f-306ad8a47f32.PNG)
+
 
 # Steps to edit your videos: 
 <ul>
