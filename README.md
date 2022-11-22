@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/47413908/203421160-27fbc33c-9538-4bad-
 </ul>
 
 # Example
-Lets say we want to create the next motivational video for Jordan peterson, and we want to insert in certain timestamps to make a good motivational video transitions:
+Lets say we want to create the next motivational video for Jordan peterson, and we want to insert in certain timestamps cut-scenes, to make good motivational video transitions:
 
 ![video1989010209_trimmed(1)](https://user-images.githubusercontent.com/47413908/203420370-b703612c-9d00-4cf9-a0a7-0a4f14e22537.gif)
 
